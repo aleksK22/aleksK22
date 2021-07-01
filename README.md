@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aleksK22
-- 👀 I’m interested in front end like Angular, React, Vue and back end mostly .NET Core and Python  
+- 👀 I’m interested in with Angular, React, Vue,.NET Core and Python  
 - 🌱 I’m currently learning about Next.js, MongoDb, Microservices and BDD 
 
 <!---
